@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif)]
+![MasterHead](https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif)
 
 <h1 align="center">Hi 👋🏻, I'm Shreeshma D</h1>
 <h3 align="center">Passionate in Python and UI/UX</h3>
