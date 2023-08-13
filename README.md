@@ -1,5 +1,8 @@
+[![MasterHead](https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif)]
+
 <h1 align="center">Hi 👋🏻, I'm Shreeshma D</h1>
 <h3 align="center">Passionate in Python and UI/UX</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"
 
 - 🌱 I’m currently learning **Python and SQL**
 
